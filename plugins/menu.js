@@ -358,8 +358,6 @@ let tek = `✧────···[ Dashboard ]···────✧
 │${emot} *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
-│
-│ ▸ *Sumber :* YouTube WH-MODS-DEV
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
@@ -376,7 +374,7 @@ const listMessage = {
   footer: `📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ ${nameown}\n\n${botdate}\n\n${wm2}`,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `CLICK HERE ⎙`, 
+  buttonText: `ᴋʟɪᴋ ᴅɪsɪɴɪ`, 
   sections
 }
   if (teks == '404') {
