@@ -16,7 +16,7 @@ let stiker = await sticker(null, global.API(`https://telegra.ph/file/d34b2ab2cb2
           showAdAttribution: true,
     mediaUrl: sig,
     mediaType: 2,
-    description: 'WH MODS BOT MD 𝑿 WH MODS DEV', 
+    description: 'RɪᴇʟʟXᴅ', 
     title: `${command} Sedang Di Proses`,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
@@ -36,7 +36,7 @@ ptt: false, seconds: 0,contextInfo: {
     title: "Now Playing...",
     body: wm,
     thumbnail: await (await fetch('https://i.ibb.co/XZrK6yQ/transformers.jpg')).buffer(),
-    sourceUrl: 'www.instagram.com/_ctzhid'
+    sourceUrl: 'www.instagram.com/riellxd_04'
  	  }
      }
     })
