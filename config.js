@@ -68,7 +68,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283813417529'
-global.nomorown = '628246218274'
+global.nomorown = '6282146218274'
 global.namebot = 'ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺'
 global.nameown = 'riellXd'
 
@@ -86,10 +86,10 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 /*============== STAFF ==============*/
 global.owner = [
   ['6282146218274', 'RiellXd', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true],
+  ['6282146218274', 'RiellXd', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -145,7 +145,7 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By RiellXd`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺  あ」'
+global.author = '                「 RiellXd  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
