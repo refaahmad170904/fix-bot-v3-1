@@ -69,7 +69,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283813417529'
 global.nomorown = '6282146218274'
-global.namebot = 'ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺'
+global.namebot = 'AlanBoz'
 global.nameown = 'riellXd'
 
 /*============== Github Thanks To ==============*/
@@ -138,9 +138,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WHʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺 '
+global.wm = '                「 AlanBotz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AlanBotz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ AlanBotz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By RiellXd`
