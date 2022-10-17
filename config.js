@@ -85,10 +85,10 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true],
+  ['79807009282', 'Ihsan', true],
+  ['79807009282', 'Ihsan', true],
+  ['79807009282', 'Ihsan', true],
+  ['79807009282', 'RiellXd', true],
   ['6282146218274', 'RiellXd', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 RereBotz🌺 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ RereBotz🌺 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ RereBotz🌺'
+global.wm = '                「 ihsanBotz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ ihsanBotz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ihsanBotz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By RiellXd`
+global.titlebot = `⫹⫺ WhatsApp Bot | By ihsan`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 RiellXd  あ」'
+global.author = '                「 ihsan  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
