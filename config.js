@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/riellxd_04' // ig
-global.sgh = 'https://github.com/RielTod1/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://instagram.com/rfahmdnraf' // ig
+global.sgh = '-' // github
+global.sgc = 'https://chat.whatsapp.com/Hj3dSaIvVCe5fDalEyQ7Cl' // group whatsapp
+global.sdc = '-'//discord
+global.snh = 'https://www.youtube.com/channel/UCsQmj-xFrqDTq8SPizpkAaw' // my youtube channel
+global.sfb = 'https://www.facebook.com/rfahmdnraf' // facebook
+global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081352724422' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '083813417529' //telkomsel
+global.pdana = '08988351529' //dana
+global.povo = '08988351529' //ovo
+global.pgopay = '08988351529' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '08988351529' //tri
 global.ppulsa2 = '-' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '6282146218274'
-global.namebot = 'AlanBoz'
-global.nameown = 'riellXd'
+global.nomorbot = '6285892985358'
+global.nomorown = '628988351529'
+global.namebot = 'ʀᴄ ʙᴏᴛᴢ'
+global.nameown = 'ᵣₑ𝑓ₐ𝑐ⲏₒ𝑐ₒ'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'abilbotz1' // nama github lu
@@ -85,10 +85,10 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628988351529', 'Ihsan', true],
-  ['628988351529', 'Ihsan', true],
-  ['628988351529', 'Ihsan', true],
-  ['628988351529', 'RiellXd', true],
+  ['6282146218274', 'RefaGanz', true]
+  ['6282146218274', 'RefaGanz', true]
+  ['6282146218274', 'RefaGanz', true]
+  ['6282146218274', 'RefaGanz', true]
   ['6282146218274', 'RefaGans', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -139,13 +139,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 RefaBotz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ RefaBotz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══'
 global.wm3 = '⫹⫺ RefaBotz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ihsan`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 ihsan  あ」'
+global.author = '                「 𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -154,8 +154,8 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.ibb.co/71khMNW/20210508-145116.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/71khMNW/20210508-145116.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺'
-global.stickauth = `By ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺`
+global.stickpack = '══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══'
+global.stickauth = '𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔`
 
 global.multiplier = 38 // The higher, The harder levelup
 
