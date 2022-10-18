@@ -10,26 +10,26 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 📮 *Note:*
-• nomor owner RiellXd wa.me/6282146218274 sv aja gamtenk cuy🗿
+• nomor owner Refachoco? save cuy wa.me/628988351529 gantenk cuy🗿
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• No Telp tapi kalo vcs gazz awgawg😎
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : ʀɪᴇʟʟXᴅ
-${htjava} *✉️ Nama RL* : Rɪᴇʟ
+${htjava} *💌 Nama* : 𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔
+${htjava} *✉️ Nama RL* : Refa Achmad 
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 16
-${htjava} *🧮 Kelas* : 2 Sᴍᴋ
+${htjava} *🎨 Umur* : 18
+${htjava} *🧮 Kelas* : Dah Lulus Cuy 
 ${htjava} *🧩 Hobby* : ᴍᴏᴅɪғɪᴋᴀsɪ ᴘᴇʀᴀɴɢᴋᴀᴛ ʟᴜɴᴀᴋ
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, samarinda, kaltim
-${htjava} *❤️ Waifu* : ga suka waifu sukanya kamu🗿
+${htjava} *🗺️ Tinggal* : Stasiun Tigaraksa Tangerang Banten 
+${htjava} *❤️ Lovers* : Pengen tau banget yah cuy?☝🏻😔
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
