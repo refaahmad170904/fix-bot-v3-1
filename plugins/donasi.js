@@ -6,7 +6,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Tri:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
@@ -18,10 +18,10 @@ let str = `${global.wm}
 let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/riellxd_04",
+    mediaUrl: "https://Instagram.com/rfahmdnraf",
     mediaType: "VIDEO",
-    description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'RɪᴇʟʟXᴅ',
+    description: "https://www.instagram.com/reel/CcAtiJ2NMb4/?igshid=YmMyMTA2M2Y=", 
+    title: '𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
