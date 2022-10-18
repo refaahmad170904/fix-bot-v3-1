@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/riellxd_04' // ig
-global.sgh = 'https://github.com/RielTod1/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://instagram.com/rfahmdnraf' // ig
+global.sgh = '-' // github
+global.sgc = 'https://chat.whatsapp.com/Hj3dSaIvVCe5fDalEyQ7Cl' // group whatsapp
+global.sdc = '-'//discord
+global.snh = 'https://www.youtube.com/channel/Refachoco' // my youtube channel
+global.sfb = 'https://www.facebook.com/Refaachmad' // facebook
+global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081352724422' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '083813417529' //telkomsel
-global.ppulsa2 = '-' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '0988351529' //dana
+global.povo = '08988351529' //ovo
+global.pgopay = '08988351529' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '-' //telkomsel
+global.ppulsa2 = '08988351529' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '6282146218274'
-global.namebot = 'AlanBoz'
-global.nameown = 'riellXd'
+global.nomorbot = '6285892985358'
+global.nomorown = '628988351529'
+global.namebot = '══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══'
+global.nameown = 'ᵣₑ𝑓ₐ𝑐ⲏₒ𝑐ₒ'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'abilbotz1' // nama github lu
-global.linkgithub = 'github.com/abilbotz1/' // tarok link github lu
+global.linkgithub = '-' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -89,7 +89,7 @@ global.owner = [
   ['79807009282', 'Ihsan', true],
   ['79807009282', 'Ihsan', true],
   ['79807009282', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true]
+  ['628988351529', 'Refachoco', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ihsanBotz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ ihsanBotz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ihsanBotz'
+global.wm = '            ══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══ ' //Main Watermark
+global.wm2 = 'ʀᴄ ʙᴏᴛᴢ'
+global.wm3 = '⫹⫺ ʀᴄ ʙᴏᴛᴢ'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ihsan`
+global.titlebot = `⫹⫺ WhatsApp Bot | 𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 ihsan  あ」'
+global.author = '             ══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -154,11 +154,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.ibb.co/DkgW0vm/20210508-145116.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/DkgW0vm/20210508-145116.jpg'
+global.giflogo = 'https://telegra.ph/file/cad7038fe82e47f79c609.jpg'
+global.thumbs = ['https://i.ibb.co/DkgW0vm/20210508-145116.jpg']
+global.fla = 'https://i.ibb.co/DkgW0vm/20210508-145116.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺'
-global.stickauth = `By ʀᴇʀᴇʙᴏᴛᴢ X ᴍᴇʟʟʏʙᴏᴛᴢ 🌺`
+global.stickpack = 'ʀᴄ ʙᴏᴛᴢ X ʀᴇʀᴇʙᴏᴛᴢ'
+global.stickauth = `By ʀᴄ ʙᴏᴛᴢ X ʀᴇʀᴇʙᴏᴛᴢ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
@@ -725,3 +725,10 @@ watchFile(file, () => {
 function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
+
+
+
+
+
+
+
