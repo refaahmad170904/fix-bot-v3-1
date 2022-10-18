@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['79807009282', 'Ihsan', true],
-  ['79807009282', 'Ihsan', true],
-  ['79807009282', 'Ihsan', true],
-  ['79807009282', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true]
+  ['628988351529', 'Ihsan', true],
+  ['628988351529', 'Ihsan', true],
+  ['628988351529', 'Ihsan', true],
+  ['628988351529', 'RiellXd', true],
+  ['6282146218274', 'RefaGans', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
