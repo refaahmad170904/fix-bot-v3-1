@@ -73,8 +73,8 @@ global.namebot = 'ʀᴄ ʙᴏᴛᴢ'
 global.nameown = 'ᵣₑ𝑓ₐ𝑐ⲏₒ𝑐ₒ'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'abilbotz1' // nama github lu
-global.linkgithub = 'github.com/abilbotz1/' // tarok link github lu
+global.namagithub = '-' // nama github lu
+global.linkgithub = '-' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -143,9 +143,9 @@ global.wm2 = '══[𝍖𝍖𝍖 𝚁𝙲 𝙱𝙾𝚃𝚉 𝍖𝍖𝍖]══'
 global.wm3 = '⫹⫺ RefaBotz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ihsan`
+global.titlebot = `⫹⫺ WhatsApp Bot | By rfahmdnraf`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 𝕽𝖊𝖋𝖆𝖈𝖍𝖔𝖈𝖔 」'
+global.author = '             ══[Refachoco]══'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
